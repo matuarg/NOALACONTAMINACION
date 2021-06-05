@@ -1,0 +1,39 @@
+body{background-color: #ABF0F0}
+#titulo{
+	font-family: arial;
+	font-size: 30px;
+	text-align: center;
+}
+#texto1{
+	font-family: arial;
+	font-size: 28px;
+	text-align: center;
+}
+#imagen1{
+	border-width: 10px;
+	border-radius: 5px;
+}
+#usuario{
+	background-color: #C1FFFF;
+	width: 150px;
+	border-color: black;
+	vertical-align: 5px;
+}
+#mensaje{
+	background-color: #C1FFFF;
+	border-color: black;
+	width: 240px;
+	height: 100px;
+}
+#enviar{
+	background-color: #C1FFFF;
+	width: 60px;
+	height: 35px;
+	border-color: black;
+}
+#enviar:hover{
+	background-color: #8DFAFA;
+	width: 58px;
+	height: 33px;
+	border-color: black;
+}
